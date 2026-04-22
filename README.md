@@ -344,12 +344,3 @@ Then open `index.html` in your browser and paste any GitHub repo URL.
 
 ---
 
-## Resume Line
-
-> Built a multi-agent code review system using LangGraph with parallel execution across specialized agents (bug, security, quality), conditional routing based on severity scoring, and dynamic web research for critical findings using Tavily.
-
----
-
-## License
-
-MIT
